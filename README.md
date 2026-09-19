@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Record Your Experience
 
 > **Track what you watch. Record what you play. Remember every experience.**
